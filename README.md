@@ -2,7 +2,7 @@
 # IDDEF Yardım Kuruluşu Site
 ### [En](#about-site)/[Tr](#anasayfa)
 ## Site Hakkında
-Kullancıcıların hesap açtıktan sonra çeşitli kampanyalara bağış yapabileceği bir  ihtiyaç olan yerlere destek olabilecek bir site tasarladım. 
+Kullancıların hesap açtıktan sonra çeşitli kampanyalara bağış yapabileceği bir  ihtiyaç olan yerlere destek olabilecek bir site tasarladım. 
 ## Site Yapısı
 * ### Anasayfa    
 Site temel olarak Anasayfa,Hakkımızda ve İletişim sayfalarından oluşur.Anasayfa sitenin giriş sayfasıdır.Diğer sayfalara erişim anasayfadan gerçekleştirilir.
