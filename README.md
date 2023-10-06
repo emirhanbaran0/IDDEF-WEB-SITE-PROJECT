@@ -89,4 +89,4 @@ On the page redirected by this button, the user registers by entering their info
 
 
 ## WEBSİTE YOUTUBE VİDEO
-[YUMFOOD VİDEO](https://youtu.be/LCT1f_yoZh4)
+[IDDEF WEBSITE VİDEO](https://youtu.be/LCT1f_yoZh4)
